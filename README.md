@@ -69,13 +69,10 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Home Page
-
-!\[Home Page](screenshots/home.png)
-
+![Home Page](screenshots/home.png)
 
 ### Recommendation Result
-
-!\[Recommendation](screenshots/recommendation.png)
+![Recommendation](screenshots/recommendation.png)
 
 
 
